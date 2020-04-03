@@ -3,6 +3,7 @@ A STM32F103VET6 DemoBoard.Test passed.
 # Version 3.5
 ## 简体中文
 ### 功能
++ 采用`STM32F103VET6`主控芯片
 + 引出全部IO
 + 引出CANH，CANL接线端子，CAN收发器芯片为`TJA1050T`
 + 板载USB-TTL芯片`CH304G`，支持`一键下载`，可用`FlyMcu`软件一键下载，选择`DTR的低电平复位，RTS高电平进BL`
